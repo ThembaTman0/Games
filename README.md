@@ -15,4 +15,4 @@ pip install pyautogui
 
 ## About Sudoku Solve:
 
-This is a sudoku solve that uses backtracking algorithm and PyAutoGUI to solve the sudoku puzzel in websites such as [Sudoku.com](https://sudoku.com/) or [nytimes sudoku](https://www.nytimes.com/puzzles/sudoku/easy). When running the code, input the puzzle/grid as rows on the ``` Input the Grid ``` section with the empty blocks as zero. After inputing all 9 rows *click the top left corner of the puzzle/grid* so the PyAutoGUI can automatically solve the puzzle.
+This is a sudoku solve that uses backtracking algorithm and PyAutoGUI to solve the sudoku puzzel in websites such as [Sudoku.com](https://sudoku.com/) or [nytimes sudoku](https://www.nytimes.com/puzzles/sudoku/easy). When running the code, input the puzzle/grid as rows on the ``` Input the Grid ``` section with the empty blocks as zero. After inputing all 9 rows **click the top left corner of the puzzle/grid** so the PyAutoGUI can automatically solve the puzzle.
